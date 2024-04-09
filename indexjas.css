@@ -1,0 +1,75 @@
+html,
+body{
+
+    background-color: rgb(201, 201, 201);
+    font-family: 'Arial, sans-serif';
+    margin: 0;
+    width: 80%;
+    height: 100px;
+    padding: 100px;
+
+}
+
+.infobasica {
+
+    text-align: sans-serif;
+    color: rgb(0, 7, 105);
+    font-size: 60px;
+    margin-top: 0px;
+
+}
+
+.info2 {
+
+    text-align: sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    margin-top: 40px;
+
+}
+.info3 {
+
+    text-align: left;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-top: 30px;
+
+}
+
+#textoprimero{
+
+    display: flex;
+    justify-content: left;
+    margin-top: 1em;
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+
+
+
+}
+
+ul{
+
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+}
+
+ol{
+
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+    
+}
+
+img{
+
+    width: 200px;
+    height: 200 px;
+    display: flex;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-color: red;
+    transition: all 1s linear; 
+    
+
+}
